@@ -1,5 +1,2 @@
 api_cfc:
-  Property1: 1
-  Property2: Two2(cloud)
-#  property3: Three(cloud)
-#  property4: Four(cloud)
+  Property6: Six comes from cloud repository
