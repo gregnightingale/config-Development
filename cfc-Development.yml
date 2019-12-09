@@ -3,5 +3,5 @@ Value2: another-val
 MyFirstValue: cloud-MyFirstValue
 MySecondValue: cloud-MySecondValue
 myconfiguration:
-	property1: cloud.property1.-Development.yml
-	property2: cloud.property2.-Dev.yml
+  property1: cloud.property1.-Development.yml
+  property2: cloud.property2.-Dev.yml
