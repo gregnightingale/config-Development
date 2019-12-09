@@ -1,0 +1,6 @@
+Value1=DEV-property1
+Value2=another-val
+MyFirstValue=cloud-MyFirstValue
+MySecondValue=cloud-MySecondValue
+myconfiguration.property1=cloud.property1
+myconfiguration.property2=cloud.property2
